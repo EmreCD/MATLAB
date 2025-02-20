@@ -16,4 +16,4 @@ Bu repoda, MATLAB eğitimime dair aldığım notları paylaşacağım. MATLAB ö
 1. **MATLAB Yükleyin**: Eğer MATLAB yüklü değilse, MathWorks'un resmi sitesinden edinebilirsiniz.
 2. **Repo'yu Klonlayın**:  
    ```bash
-   git clone https://github.com/MATLAB.git
+   git clone https://github.com/EmreCD/MATLAB.git
